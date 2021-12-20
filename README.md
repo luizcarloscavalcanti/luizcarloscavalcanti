@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz Carlos Cavalcanti</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [bara-planejados](https://github.com/luizcarloscavalcanti/bara-planejados)
+- 🔭 I’m currently working in Santander Brasil
 
 - 🌱 I’m currently learning **Bootcamp Avanade Digital Innovation One**
 
